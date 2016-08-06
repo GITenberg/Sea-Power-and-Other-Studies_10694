@@ -1,0 +1,34 @@
+_repo: Sea-Power-and-Other-Studies_10694
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bridge, Cyprian, Sir
+    alias: Bridge, Cyprian A. G. (Cyprian Arthur George)
+    birthdate: 1839
+    deathdate: 1924
+    gutenberg_agent_id: '3643'
+    url: http://www.gutenberg.org/2009/agents/3643
+    wikipedia: http://en.wikipedia.org/wiki/Cyprian_Bridge
+description: ''
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10694'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'V'
+- !lcsh 'Naval art and science'
+- !lcsh 'Sea-power'
+- !lcsh 'Great Britain. Royal Navy -- History'
+- GITenberg
+tableOfContents: 'Sea-power -- The command of the sea -- War and its chief lessons
+  -- The historical relations between the navy and the merchant service -- Facts and
+  fancies about the press-gang -- Projected invasions of the British Isles -- Over-sea
+  raids and raids on land -- Queen Elizabeth and her seamen -- Nelson: The centenary
+  of Trafalgar -- The share of the fleet in the defence of the empire -- Naval strategy
+  and tactics at the time of Trafalgar -- The supply and communications of a fleet.'
+title: Sea-Power and Other Studies
+url: http://www.gutenberg.org/ebooks/10694
