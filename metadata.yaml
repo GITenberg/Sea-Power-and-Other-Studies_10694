@@ -1,5 +1,8 @@
 _repo: Sea-Power-and-Other-Studies_10694
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Bridge, Cyprian, Sir
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3643
     wikipedia: http://en.wikipedia.org/wiki/Cyprian_Bridge
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10694#Sea-Power-and-Other-Studies
 gutenberg_issued: '2004-01-01'
 gutenberg_type: Text
 identifiers:
